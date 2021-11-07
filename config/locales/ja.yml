@@ -257,6 +257,9 @@ ja:
           subject: 'リーダーの割り当て '
           title: 'あなたのメールアドレスがリーダーとして割り当てられました'
       are_you_sure: '本気ですか？'
+      agenda:
+        subject: '議題の削除！ '
+        title: "アジェンダ％{agenda_name}は所有者％{owner_name}によって削除されました "
     button:
       make_leader: 'リーダーにする'
       submit: '投稿'
@@ -271,3 +274,4 @@ ja:
       line4: '事態が起こってしまうので、それを回避するための社内用アプリケーションです'
     common:
       team: 'チーム'
+      agenda: '議題 '

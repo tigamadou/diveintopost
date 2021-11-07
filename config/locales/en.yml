@@ -267,6 +267,9 @@ en:
         subject: 'Leader assignment'
         title: 'Your email address has been assigned as leader'
       are_you_sure: 'Are you sure?'
+      agenda:
+        subject: 'Agenda deletion!'
+        title: "The agenda %{agenda_name} has been deleted by the owner %{owner_name}"
         
     button:
       make_leader: 'Make leader'
@@ -282,3 +285,4 @@ en:
       line4: 'and you will not be able to pick it up, so it is an internal application to avoid it'
     common:
       team: 'Team'
+      agenda: 'Agenda'
